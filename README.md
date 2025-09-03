@@ -1,4 +1,4 @@
-# 🌿 WellnessAI Advisior 🍏
+# 🌿 Nutrition App 🍏
 
 Nourishing Your Health, One Byte at a Time
 
