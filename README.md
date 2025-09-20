@@ -2,12 +2,6 @@
 
 Nourishing Your Health, One Byte at a Time
 
-[![Build Status](https://travis-ci.org/swapagarwal/JARVIS-on-Messenger.svg?branch=master)](https://travis-ci.org/swapagarwal/JARVIS-on-Messenger)
-![Python](https://img.shields.io/badge/python-3.9-blue.svg)
-[![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
-[![Gitmoji](https://img.shields.io/badge/gitmoji-%20🚀%20🐳-FFDD67.svg)](https://gitmoji.carloscuesta.me)
-
-
 ## 🚀 Brief Idea
 Welcome to Nutrition App, your personal nutritionist powered by Google's Gemini Pro Vision API. This project demonstrates the fusion of nutrition and artificial intelligence, offering users a tool to analyze meal images and receive detailed nutritional insights.
 
@@ -26,13 +20,8 @@ Welcome to Nutrition App, your personal nutritionist powered by Google's Gemini 
 **Scripting Language:** Python
 **Deployment partner:** Streamlit
 
-## 🔴 Video Demo!
-
-
-
-
-## 💫 Getting Started 
-Clone the repository: \
+## 💫 Getting Started
+Clone the repository: git clone https://github.com/krishna-192006/Nutirition-App
 
 Install dependencies: pip install -r requirements.txt
 
@@ -40,7 +29,7 @@ Configure API key: Visit Google's Gemini Pro Vision API to obtain your API key, 
 
 
 ## 🪴 Usage
-Run the Streamlit app: streamlit run wellnessai_advisior.py
+Run the Streamlit app: streamlit run main.py
 Upload an image of your meal.
 Click the "Tell me about my meal" button to receive nutritional insights.
 
@@ -55,5 +44,4 @@ Google's Gemini Pro Vision API
 Streamlit
 
 ## Authors
-
--
+Krishna Pandey
